@@ -8,7 +8,6 @@ from typing import List, Dict, Any, Optional
 
 # Load environment variables at the very beginning
 from dotenv import load_dotenv
-load_dotenv()
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -17,6 +16,8 @@ from pydantic import BaseModel, Field
 from openai_client import OpenAIClient
 from prompts import INFORMATION_COLLECTION_PROMPT, VERIFY_USER_INFORMATION_FUNCTION, GET_INFORMATION_FUNCTION
 from utils import verify_user_information, prepare_messages_for_qa, extract_user_info_from_tool_call, get_information
+
+load_dotenv()
 
 # Configure logging
 logging.basicConfig(
