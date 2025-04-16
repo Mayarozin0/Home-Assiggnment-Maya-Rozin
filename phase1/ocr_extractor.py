@@ -288,38 +288,166 @@ def extract_form_data_with_openai(extracted_data):
 
 def validate_extraction(data):
     """
-    Validate the extracted data for completeness and correctness
+    Validate the extracted data for completeness and correctness.
+    Returns validation results and a confidence score.
     """
     validation_results = {
         "missing_required_fields": [],
-        "format_issues": []
+        "format_issues": [],
+        "consistency_issues": [],
+        "field_stats": {"total": 0, "filled": 0, "empty": 0}
     }
 
-    # Check required fields
-    required_fields = ["lastName", "firstName", "idNumber", "dateOfInjury", "timeOfInjury", "accidentDescription"]
+    # Required fields check
+    required_fields = ["lastName", "firstName", "idNumber", "dateOfInjury",
+                       "timeOfInjury", "accidentDescription", "injuredBodyPart"]
     for field in required_fields:
         if not data.get(field):
             validation_results["missing_required_fields"].append(field)
 
-    # Check date formats
+    # Count fields for completeness statistics
+    flat_fields = flatten_dict(data)
+    validation_results["field_stats"]["total"] = len(flat_fields)
+
+    for key, value in flat_fields.items():
+        if value and value != "":
+            validation_results["field_stats"]["filled"] += 1
+        else:
+            validation_results["field_stats"]["empty"] += 1
+
+    # Format validations
+    # ID number check
+    if data.get("idNumber"):
+        if not data["idNumber"].isdigit() or len(data["idNumber"]) != 9:
+            validation_results["format_issues"].append("idNumber should be 9 digits")
+
+    # Date format checks
     date_fields = ["dateOfBirth", "dateOfInjury", "formFillingDate", "formReceiptDateAtClinic"]
     for field in date_fields:
         if field in data and data[field]:
-            if not (data[field].get("day") and data[field].get("month") and data[field].get("year")):
+            if not all(data[field].get(part) for part in ["day", "month", "year"]):
                 validation_results["format_issues"].append(f"{field} is incomplete")
+            else:
+                # Check if date parts are numeric and in valid ranges
+                try:
+                    day = int(data[field]["day"])
+                    month = int(data[field]["month"])
+                    year = int(data[field]["year"])
 
-    # Check ID number (should be 9 digits for Israeli ID)
-    if data.get("idNumber") and (not data["idNumber"].isdigit() or len(data["idNumber"]) != 9):
-        validation_results["format_issues"].append("idNumber should be 9 digits")
+                    if not (1 <= day <= 31 and 1 <= month <= 12 and 1900 <= year <= 2100):
+                        validation_results["format_issues"].append(f"{field} has invalid date range")
+                except (ValueError, TypeError):
+                    validation_results["format_issues"].append(f"{field} has non-numeric components")
 
-    # Check phone numbers (should contain only digits and have reasonable length)
+    # Phone number validations
     for phone_field in ["landlinePhone", "mobilePhone"]:
         if data.get(phone_field):
             digits_only = ''.join(c for c in data[phone_field] if c.isdigit())
             if len(digits_only) < 7 or len(digits_only) > 10:
                 validation_results["format_issues"].append(f"{phone_field} has invalid format")
 
+    # Consistency checks
+    if data.get("dateOfInjury") and data.get("formFillingDate"):
+        injury_date = get_date_value(data["dateOfInjury"])
+        filling_date = get_date_value(data["formFillingDate"])
+
+        if injury_date and filling_date and injury_date > filling_date:
+            validation_results["consistency_issues"].append("Date of injury is after form filling date")
+
+    # Check consistency between accident description and injured body part
+    if data.get("accidentDescription") and data.get("injuredBodyPart"):
+        if len(data["accidentDescription"]) < 10:
+            validation_results["consistency_issues"].append("Accident description seems too short")
+
+    # Check that form receipt date at clinic is after or equal to form filling date
+    if data.get("formFillingDate") and data.get("formReceiptDateAtClinic"):
+        filling_date = get_date_value(data["formFillingDate"])
+        receipt_date = get_date_value(data["formReceiptDateAtClinic"])
+
+        if filling_date and receipt_date and receipt_date < filling_date:
+            validation_results["consistency_issues"].append("Form receipt date at clinic is before form filling date")
+
+    # Language checks for text fields
+    text_fields = ["lastName", "firstName", "accidentDescription", "accidentLocation",
+                   "injuredBodyPart"]
+    for field in text_fields:
+        if data.get(field) and len(data[field]) > 0:
+            detected_language = detect_language(data[field])
+            if detected_language not in ["hebrew", "english", "mixed"]:
+                validation_results["format_issues"].append(f"{field} language seems invalid")
+
+    # Calculate completeness percentage
+    completeness = 0
+    if validation_results["field_stats"]["total"] > 0:
+        completeness = (validation_results["field_stats"]["filled"] /
+                        validation_results["field_stats"]["total"]) * 100
+
+    # Calculate confidence score
+    confidence_score = calculate_confidence_score(validation_results, completeness)
+
+    validation_results["completeness_percentage"] = completeness
+    validation_results["confidence_score"] = confidence_score
+
     return validation_results
+
+
+def flatten_dict(d, parent_key='', sep='_'):
+    """Flatten a nested dictionary"""
+    items = []
+    for k, v in d.items():
+        new_key = f"{parent_key}{sep}{k}" if parent_key else k
+        if isinstance(v, dict):
+            items.extend(flatten_dict(v, new_key, sep=sep).items())
+        else:
+            items.append((new_key, v))
+    return dict(items)
+
+
+def get_date_value(date_dict):
+    """Convert a date dict to a comparable value"""
+    try:
+        if all(date_dict.get(part) for part in ["day", "month", "year"]):
+            # Convert all parts to integers and create a comparable value
+            day = int(date_dict["day"])
+            month = int(date_dict["month"])
+            year = int(date_dict["year"])
+            return year * 10000 + month * 100 + day
+    except (ValueError, TypeError) as e:
+        print(f"Error converting date: {e}")
+    return None
+
+
+def detect_language(text):
+    """Simple language detection for Hebrew/English"""
+    hebrew_chars = sum(1 for c in text if '\u0590' <= c <= '\u05FF')
+    english_chars = sum(1 for c in text if ('a' <= c.lower() <= 'z'))
+
+    if hebrew_chars > 0 and english_chars > 0:
+        return "mixed"
+    elif hebrew_chars > 0:
+        return "hebrew"
+    elif english_chars > 0:
+        return "english"
+    else:
+        return "unknown"
+
+
+def calculate_confidence_score(validation_results, completeness):
+    """Calculate an overall confidence score based on validation results"""
+    score = 100  # Start at 100%
+
+    # Deduct for missing required fields
+    score -= len(validation_results["missing_required_fields"]) * 10
+
+    # Deduct for format and consistency issues
+    score -= len(validation_results["format_issues"]) * 5
+    score -= len(validation_results["consistency_issues"]) * 3
+
+    # Factor in completeness (weighted at 30% of total score)
+    score = (score * 0.7) + (completeness * 0.3)
+
+    # Cap between 0 and 100
+    return max(0, min(100, score))
 
 
 def process_form(file_path):

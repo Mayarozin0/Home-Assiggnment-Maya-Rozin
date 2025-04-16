@@ -27,14 +27,24 @@ def main():
                 st.success("Form processed successfully!")
 
                 # Show validation results
-                if result["validation_results"]["missing_required_fields"] or result["validation_results"][
-                    "format_issues"]:
+                if (result["validation_results"]["missing_required_fields"] or
+                        result["validation_results"]["format_issues"] or
+                        result["validation_results"]["consistency_issues"]):  # Added this line
+
                     st.warning("Validation issues detected:")
+
                     if result["validation_results"]["missing_required_fields"]:
                         st.write("Missing required fields:",
                                  ", ".join(result["validation_results"]["missing_required_fields"]))
+
                     if result["validation_results"]["format_issues"]:
-                        st.write("Format issues:", ", ".join(result["validation_results"]["format_issues"]))
+                        st.write("Format issues:",
+                                 ", ".join(result["validation_results"]["format_issues"]))
+
+                    # Add this block to display consistency issues
+                    if result["validation_results"]["consistency_issues"]:
+                        st.write("Consistency issues:",
+                                 ", ".join(result["validation_results"]["consistency_issues"]))
                 else:
                     st.success("All data validated successfully!")
 
