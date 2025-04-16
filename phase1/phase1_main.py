@@ -3,7 +3,7 @@ import json
 import tempfile
 import os
 from pathlib import Path
-from phase1.ocr_extractor import process_form
+from ocr_extractor import process_form
 
 
 def main():
