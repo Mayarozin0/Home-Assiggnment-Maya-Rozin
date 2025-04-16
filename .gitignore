@@ -1,0 +1,37 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.idea/
+
+# Virtual environments
+.venv
+fresh_venv
+.venv/
+
+# IDE files
+Home-Assignment-GenAI-KPMG-caf77ef40ad902ea29f5a1005ea5a70cface6259/.idea/
+.vscode/
+*.swp
+*.swo
+
