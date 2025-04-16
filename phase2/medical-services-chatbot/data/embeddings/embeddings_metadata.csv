@@ -1,0 +1,1135 @@
+id,service,hmo,tier,file_path,text
+pragrency_services_clalit_gold,pragrency_services,clalit,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/pragrency_services/clalit/gold.json,"Category: הריון
+Description: תקופת ההריון היא זמן משמעותי בחייה של כל אישה, המלווה בשינויים פיזיים ורגשיים רבים. קופות החולים בישראל מציעות מגוון שירותים ותמיכה לנשים הרות, במטרה להבטיח הריון בריא ובטוח. השירותים כוללים מעקב רפואי, בדיקות שגרתיות, הדרכות והכנה ללידה. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים לנשים הרות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחות במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: כללית
+Tier: זהב
+Services:
+  - Service Name: מעקב הריון
+    Benefits: חינם, כולל ייעוץ טלפוני 24/7
+  - Service Name: בדיקות סקר גנטיות
+    Benefits: 95% הנחה, כולל פענוח מורחב
+  - Service Name: סקירות מערכות
+    Benefits: חינם, כולל צילום וידאו של הסקירה
+  - Service Name: קורס הכנה ללידה
+    Benefits: חינם, כולל מפגש עם יועצת הנקה
+  - Service Name: ייעוץ תזונתי
+    Benefits: 4 פגישות חינם, כולל ליווי דיגיטלי
+  - Service Name: טיפול בסיבוכי הריון
+    Benefits: 95% כיסוי, כולל התייעצות עם מומחים
+Contact Information:
+  - מספרי_טלפון_למידע_נוסף_ותיאום_שירותי_הריון:: 2700* או 03-9766111 שלוחה 18
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/pregnancy"
+pragrency_services_clalit_silver,pragrency_services,clalit,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/pragrency_services/clalit/silver.json,"Category: הריון
+Description: תקופת ההריון היא זמן משמעותי בחייה של כל אישה, המלווה בשינויים פיזיים ורגשיים רבים. קופות החולים בישראל מציעות מגוון שירותים ותמיכה לנשים הרות, במטרה להבטיח הריון בריא ובטוח. השירותים כוללים מעקב רפואי, בדיקות שגרתיות, הדרכות והכנה ללידה. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים לנשים הרות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחות במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: כללית
+Tier: כסף
+Services:
+  - Service Name: מעקב הריון
+    Benefits: חינם, רופא קופה
+  - Service Name: בדיקות סקר גנטיות
+    Benefits: 75% הנחה
+  - Service Name: סקירות מערכות
+    Benefits: חינם, סקירה רגילה
+  - Service Name: קורס הכנה ללידה
+    Benefits: 70% הנחה
+  - Service Name: ייעוץ תזונתי
+    Benefits: 2 פגישות חינם
+  - Service Name: טיפול בסיבוכי הריון
+    Benefits: 75% כיסוי
+Contact Information:
+  - מספרי_טלפון_למידע_נוסף_ותיאום_שירותי_הריון:: 2700* או 03-9766111 שלוחה 18
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/pregnancy"
+pragrency_services_clalit_bronze,pragrency_services,clalit,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/pragrency_services/clalit/bronze.json,"Category: הריון
+Description: תקופת ההריון היא זמן משמעותי בחייה של כל אישה, המלווה בשינויים פיזיים ורגשיים רבים. קופות החולים בישראל מציעות מגוון שירותים ותמיכה לנשים הרות, במטרה להבטיח הריון בריא ובטוח. השירותים כוללים מעקב רפואי, בדיקות שגרתיות, הדרכות והכנה ללידה. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים לנשים הרות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחות במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: כללית
+Tier: ארד
+Services:
+  - Service Name: מעקב הריון
+    Benefits: חינם, מיילדת או רופא קופה
+  - Service Name: בדיקות סקר גנטיות
+    Benefits: 55% הנחה
+  - Service Name: סקירות מערכות
+    Benefits: 60% הנחה על סקירה רגילה
+  - Service Name: קורס הכנה ללידה
+    Benefits: 40% הנחה
+  - Service Name: ייעוץ תזונתי
+    Benefits: פגישה אחת חינם
+  - Service Name: טיפול בסיבוכי הריון
+    Benefits: 55% כיסוי
+Contact Information:
+  - מספרי_טלפון_למידע_נוסף_ותיאום_שירותי_הריון:: 2700* או 03-9766111 שלוחה 18
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/pregnancy"
+pragrency_services_maccabi_gold,pragrency_services,maccabi,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/pragrency_services/maccabi/gold.json,"Category: הריון
+Description: תקופת ההריון היא זמן משמעותי בחייה של כל אישה, המלווה בשינויים פיזיים ורגשיים רבים. קופות החולים בישראל מציעות מגוון שירותים ותמיכה לנשים הרות, במטרה להבטיח הריון בריא ובטוח. השירותים כוללים מעקב רפואי, בדיקות שגרתיות, הדרכות והכנה ללידה. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים לנשים הרות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחות במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מכבי
+Tier: זהב
+Services:
+  - Service Name: מעקב הריון
+    Benefits: חינם, כולל בחירת רופא מומחה
+  - Service Name: בדיקות סקר גנטיות
+    Benefits: 90% הנחה, כולל ייעוץ גנטי
+  - Service Name: סקירות מערכות
+    Benefits: חינם, כולל סקירה מוקדמת ומאוחרת
+  - Service Name: קורס הכנה ללידה
+    Benefits: חינם, כולל סיור בחדר לידה
+  - Service Name: ייעוץ תזונתי
+    Benefits: 5 פגישות חינם, כולל תוכנית אישית
+  - Service Name: טיפול בסיבוכי הריון
+    Benefits: 90% כיסוי, כולל אשפוז בית במקרה הצורך
+Contact Information:
+  - מספרי_טלפון_למידע_נוסף_ותיאום_שירותי_הריון:: 3555* או 1-700-50-53-53 שלוחה 16
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/pregnancy-services"
+pragrency_services_maccabi_silver,pragrency_services,maccabi,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/pragrency_services/maccabi/silver.json,"Category: הריון
+Description: תקופת ההריון היא זמן משמעותי בחייה של כל אישה, המלווה בשינויים פיזיים ורגשיים רבים. קופות החולים בישראל מציעות מגוון שירותים ותמיכה לנשים הרות, במטרה להבטיח הריון בריא ובטוח. השירותים כוללים מעקב רפואי, בדיקות שגרתיות, הדרכות והכנה ללידה. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים לנשים הרות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחות במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מכבי
+Tier: כסף
+Services:
+  - Service Name: מעקב הריון
+    Benefits: חינם, רופא קופה
+  - Service Name: בדיקות סקר גנטיות
+    Benefits: 70% הנחה
+  - Service Name: סקירות מערכות
+    Benefits: חינם, סקירה מאוחרת
+  - Service Name: קורס הכנה ללידה
+    Benefits: 50% הנחה
+  - Service Name: ייעוץ תזונתי
+    Benefits: 3 פגישות חינם
+  - Service Name: טיפול בסיבוכי הריון
+    Benefits: 70% כיסוי
+Contact Information:
+  - מספרי_טלפון_למידע_נוסף_ותיאום_שירותי_הריון:: 3555* או 1-700-50-53-53 שלוחה 16
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/pregnancy-services"
+pragrency_services_maccabi_bronze,pragrency_services,maccabi,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/pragrency_services/maccabi/bronze.json,"Category: הריון
+Description: תקופת ההריון היא זמן משמעותי בחייה של כל אישה, המלווה בשינויים פיזיים ורגשיים רבים. קופות החולים בישראל מציעות מגוון שירותים ותמיכה לנשים הרות, במטרה להבטיח הריון בריא ובטוח. השירותים כוללים מעקב רפואי, בדיקות שגרתיות, הדרכות והכנה ללידה. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים לנשים הרות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחות במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מכבי
+Tier: ארד
+Services:
+  - Service Name: מעקב הריון
+    Benefits: חינם, מיילדת או רופא קופה
+  - Service Name: בדיקות סקר גנטיות
+    Benefits: 50% הנחה
+  - Service Name: סקירות מערכות
+    Benefits: 50% הנחה על סקירה מאוחרת
+  - Service Name: קורס הכנה ללידה
+    Benefits: 25% הנחה
+  - Service Name: ייעוץ תזונתי
+    Benefits: פגישה אחת חינם
+  - Service Name: טיפול בסיבוכי הריון
+    Benefits: 50% כיסוי
+Contact Information:
+  - מספרי_טלפון_למידע_נוסף_ותיאום_שירותי_הריון:: 3555* או 1-700-50-53-53 שלוחה 16
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/pregnancy-services"
+pragrency_services_meuhedet_gold,pragrency_services,meuhedet,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/pragrency_services/meuhedet/gold.json,"Category: הריון
+Description: תקופת ההריון היא זמן משמעותי בחייה של כל אישה, המלווה בשינויים פיזיים ורגשיים רבים. קופות החולים בישראל מציעות מגוון שירותים ותמיכה לנשים הרות, במטרה להבטיח הריון בריא ובטוח. השירותים כוללים מעקב רפואי, בדיקות שגרתיות, הדרכות והכנה ללידה. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים לנשים הרות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחות במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מאוחדת
+Tier: זהב
+Services:
+  - Service Name: מעקב הריון
+    Benefits: חינם, כולל מעקב אישי דיגיטלי
+  - Service Name: בדיקות סקר גנטיות
+    Benefits: 85% הנחה, כולל בדיקות מתקדמות
+  - Service Name: סקירות מערכות
+    Benefits: חינם, כולל סקירה תלת-ממדית
+  - Service Name: קורס הכנה ללידה
+    Benefits: חינם, כולל קורס החייאת תינוקות
+  - Service Name: ייעוץ תזונתי
+    Benefits: 6 פגישות חינם, כולל ערכת תוספי תזונה
+  - Service Name: טיפול בסיבוכי הריון
+    Benefits: 85% כיסוי, כולל ליווי אחות מומחית
+Contact Information:
+  - מספרי_טלפון_למידע_נוסף_ותיאום_שירותי_הריון:: 3833* או 1-222-3833 שלוחה 17
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/pregnancy-care"
+pragrency_services_meuhedet_silver,pragrency_services,meuhedet,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/pragrency_services/meuhedet/silver.json,"Category: הריון
+Description: תקופת ההריון היא זמן משמעותי בחייה של כל אישה, המלווה בשינויים פיזיים ורגשיים רבים. קופות החולים בישראל מציעות מגוון שירותים ותמיכה לנשים הרות, במטרה להבטיח הריון בריא ובטוח. השירותים כוללים מעקב רפואי, בדיקות שגרתיות, הדרכות והכנה ללידה. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים לנשים הרות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחות במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מאוחדת
+Tier: כסף
+Services:
+  - Service Name: מעקב הריון
+    Benefits: חינם, רופא קופה
+  - Service Name: בדיקות סקר גנטיות
+    Benefits: 65% הנחה
+  - Service Name: סקירות מערכות
+    Benefits: חינם, סקירה רגילה
+  - Service Name: קורס הכנה ללידה
+    Benefits: 60% הנחה
+  - Service Name: ייעוץ תזונתי
+    Benefits: 4 פגישות חינם
+  - Service Name: טיפול בסיבוכי הריון
+    Benefits: 65% כיסוי
+Contact Information:
+  - מספרי_טלפון_למידע_נוסף_ותיאום_שירותי_הריון:: 3833* או 1-222-3833 שלוחה 17
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/pregnancy-care"
+pragrency_services_meuhedet_bronze,pragrency_services,meuhedet,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/pragrency_services/meuhedet/bronze.json,"Category: הריון
+Description: תקופת ההריון היא זמן משמעותי בחייה של כל אישה, המלווה בשינויים פיזיים ורגשיים רבים. קופות החולים בישראל מציעות מגוון שירותים ותמיכה לנשים הרות, במטרה להבטיח הריון בריא ובטוח. השירותים כוללים מעקב רפואי, בדיקות שגרתיות, הדרכות והכנה ללידה. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים לנשים הרות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחות במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מאוחדת
+Tier: ארד
+Services:
+  - Service Name: מעקב הריון
+    Benefits: חינם, מיילדת או רופא קופה
+  - Service Name: בדיקות סקר גנטיות
+    Benefits: 45% הנחה
+  - Service Name: סקירות מערכות
+    Benefits: 40% הנחה על סקירה רגילה
+  - Service Name: קורס הכנה ללידה
+    Benefits: 30% הנחה
+  - Service Name: ייעוץ תזונתי
+    Benefits: 2 פגישות חינם
+  - Service Name: טיפול בסיבוכי הריון
+    Benefits: 45% כיסוי
+Contact Information:
+  - מספרי_טלפון_למידע_נוסף_ותיאום_שירותי_הריון:: 3833* או 1-222-3833 שלוחה 17
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/pregnancy-care"
+dentel_services_clalit_gold,dentel_services,clalit,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/dentel_services/clalit/gold.json,"Category: מרפאות שיניים
+Description: מרפאות שיניים מציעות מגוון רחב של שירותי בריאות הפה, כולל בדיקות שגרתיות, ניקויים, סתימות, טיפולי שורש, עקירות, והליכים קוסמטיים. מרפאות אלו מאוישות על ידי רופאי שיניים מורשים ושינניות המשתמשים בציוד מודרני כדי להבטיח טיפול איכותי לפציינטים מכל הגילאים. הטבלה שלהלן מציגה את כל תתי-השירותים במסגרת מרפאות השיניים, ואת התעריפים וההטבות בהתאם למסלולי הביטוח בקופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"". השירותים המוצגים כוללים: כל אחד מהשירותים מוצג עם פירוט ההטבות למסלולי הזהב, הכסף והארד בכל אחת מקופות החולים.
+HMO: כללית
+Tier: זהב
+Services:
+  - Service Name: בדיקות וניקוי שיניים
+    Benefits: חינם כל חודש, קו חירום 24/7
+  - Service Name: סתימות
+    Benefits: 70% הנחה, טכנולוגיה מתקדמת
+  - Service Name: טיפולי שורש
+    Benefits: 60% הנחה, כולל טיפול לאחר מכן
+  - Service Name: כתרים ושתלים
+    Benefits: 50% הנחה, אחריות ל-6 שנים
+  - Service Name: יישור שיניים
+    Benefits: 40% הנחה, כולל ייעוץ אורתודונטי
+  - Service Name: טיפולים קוסמטיים
+    Benefits: 30% הנחה, כולל שיחזור חרסינה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 2700* או 03-9766111 שלוחה 3
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/dental"
+dentel_services_clalit_silver,dentel_services,clalit,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/dentel_services/clalit/silver.json,"Category: מרפאות שיניים
+Description: מרפאות שיניים מציעות מגוון רחב של שירותי בריאות הפה, כולל בדיקות שגרתיות, ניקויים, סתימות, טיפולי שורש, עקירות, והליכים קוסמטיים. מרפאות אלו מאוישות על ידי רופאי שיניים מורשים ושינניות המשתמשים בציוד מודרני כדי להבטיח טיפול איכותי לפציינטים מכל הגילאים. הטבלה שלהלן מציגה את כל תתי-השירותים במסגרת מרפאות השיניים, ואת התעריפים וההטבות בהתאם למסלולי הביטוח בקופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"". השירותים המוצגים כוללים: כל אחד מהשירותים מוצג עם פירוט ההטבות למסלולי הזהב, הכסף והארד בכל אחת מקופות החולים.
+HMO: כללית
+Tier: כסף
+Services:
+  - Service Name: בדיקות וניקוי שיניים
+    Benefits: חינם פעם בשנה, שעות קליניקה מורחבות
+  - Service Name: סתימות
+    Benefits: 40% הנחה
+  - Service Name: טיפולי שורש
+    Benefits: 30% הנחה
+  - Service Name: כתרים ושתלים
+    Benefits: 25% הנחה, אחריות ל-3 שנים
+  - Service Name: יישור שיניים
+    Benefits: 20% הנחה
+  - Service Name: טיפולים קוסמטיים
+    Benefits: 15% הנחה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 2700* או 03-9766111 שלוחה 3
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/dental"
+dentel_services_clalit_bronze,dentel_services,clalit,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/dentel_services/clalit/bronze.json,"Category: מרפאות שיניים
+Description: מרפאות שיניים מציעות מגוון רחב של שירותי בריאות הפה, כולל בדיקות שגרתיות, ניקויים, סתימות, טיפולי שורש, עקירות, והליכים קוסמטיים. מרפאות אלו מאוישות על ידי רופאי שיניים מורשים ושינניות המשתמשים בציוד מודרני כדי להבטיח טיפול איכותי לפציינטים מכל הגילאים. הטבלה שלהלן מציגה את כל תתי-השירותים במסגרת מרפאות השיניים, ואת התעריפים וההטבות בהתאם למסלולי הביטוח בקופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"". השירותים המוצגים כוללים: כל אחד מהשירותים מוצג עם פירוט ההטבות למסלולי הזהב, הכסף והארד בכל אחת מקופות החולים.
+HMO: כללית
+Tier: ארד
+Services:
+  - Service Name: בדיקות וניקוי שיניים
+    Benefits: 20% הנחה, שעות קליניקה רגילות
+  - Service Name: סתימות
+    Benefits: 20% הנחה
+  - Service Name: טיפולי שורש
+    Benefits: 20% הנחה
+  - Service Name: כתרים ושתלים
+    Benefits: 20% הנחה, אחריות לשנה
+  - Service Name: יישור שיניים
+    Benefits: 20% הנחה
+  - Service Name: טיפולים קוסמטיים
+    Benefits: 20% הנחה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 2700* או 03-9766111 שלוחה 3
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/dental"
+dentel_services_maccabi_gold,dentel_services,maccabi,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/dentel_services/maccabi/gold.json,"Category: מרפאות שיניים
+Description: מרפאות שיניים מציעות מגוון רחב של שירותי בריאות הפה, כולל בדיקות שגרתיות, ניקויים, סתימות, טיפולי שורש, עקירות, והליכים קוסמטיים. מרפאות אלו מאוישות על ידי רופאי שיניים מורשים ושינניות המשתמשים בציוד מודרני כדי להבטיח טיפול איכותי לפציינטים מכל הגילאים. הטבלה שלהלן מציגה את כל תתי-השירותים במסגרת מרפאות השיניים, ואת התעריפים וההטבות בהתאם למסלולי הביטוח בקופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"". השירותים המוצגים כוללים: כל אחד מהשירותים מוצג עם פירוט ההטבות למסלולי הזהב, הכסף והארד בכל אחת מקופות החולים.
+HMO: מכבי
+Tier: זהב
+Services:
+  - Service Name: בדיקות וניקוי שיניים
+    Benefits: חינם פעמיים בשנה, תור תוך 48 שעות
+  - Service Name: סתימות
+    Benefits: 80% הנחה, חומרים מתקדמים
+  - Service Name: טיפולי שורש
+    Benefits: 70% הנחה, כולל צילומי רנטגן
+  - Service Name: כתרים ושתלים
+    Benefits: 60% הנחה, אחריות ל-5 שנים
+  - Service Name: יישור שיניים
+    Benefits: 50% הנחה, כולל רטנציה
+  - Service Name: טיפולים קוסמטיים
+    Benefits: 40% הנחה, כולל הלבנה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 3555* או 1-700-50-53-53 שלוחה 1
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/dental-services"
+dentel_services_maccabi_silver,dentel_services,maccabi,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/dentel_services/maccabi/silver.json,"Category: מרפאות שיניים
+Description: מרפאות שיניים מציעות מגוון רחב של שירותי בריאות הפה, כולל בדיקות שגרתיות, ניקויים, סתימות, טיפולי שורש, עקירות, והליכים קוסמטיים. מרפאות אלו מאוישות על ידי רופאי שיניים מורשים ושינניות המשתמשים בציוד מודרני כדי להבטיח טיפול איכותי לפציינטים מכל הגילאים. הטבלה שלהלן מציגה את כל תתי-השירותים במסגרת מרפאות השיניים, ואת התעריפים וההטבות בהתאם למסלולי הביטוח בקופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"". השירותים המוצגים כוללים: כל אחד מהשירותים מוצג עם פירוט ההטבות למסלולי הזהב, הכסף והארד בכל אחת מקופות החולים.
+HMO: מכבי
+Tier: כסף
+Services:
+  - Service Name: בדיקות וניקוי שיניים
+    Benefits: חינם פעם בשנה, תור תוך שבוע
+  - Service Name: סתימות
+    Benefits: 50% הנחה
+  - Service Name: טיפולי שורש
+    Benefits: 40% הנחה
+  - Service Name: כתרים ושתלים
+    Benefits: 35% הנחה, אחריות ל-3 שנים
+  - Service Name: יישור שיניים
+    Benefits: 30% הנחה
+  - Service Name: טיפולים קוסמטיים
+    Benefits: 25% הנחה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 3555* או 1-700-50-53-53 שלוחה 1
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/dental-services"
+dentel_services_maccabi_bronze,dentel_services,maccabi,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/dentel_services/maccabi/bronze.json,"Category: מרפאות שיניים
+Description: מרפאות שיניים מציעות מגוון רחב של שירותי בריאות הפה, כולל בדיקות שגרתיות, ניקויים, סתימות, טיפולי שורש, עקירות, והליכים קוסמטיים. מרפאות אלו מאוישות על ידי רופאי שיניים מורשים ושינניות המשתמשים בציוד מודרני כדי להבטיח טיפול איכותי לפציינטים מכל הגילאים. הטבלה שלהלן מציגה את כל תתי-השירותים במסגרת מרפאות השיניים, ואת התעריפים וההטבות בהתאם למסלולי הביטוח בקופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"". השירותים המוצגים כוללים: כל אחד מהשירותים מוצג עם פירוט ההטבות למסלולי הזהב, הכסף והארד בכל אחת מקופות החולים.
+HMO: מכבי
+Tier: ארד
+Services:
+  - Service Name: בדיקות וניקוי שיניים
+    Benefits: 30% הנחה, תור רגיל
+  - Service Name: סתימות
+    Benefits: 20% הנחה
+  - Service Name: טיפולי שורש
+    Benefits: 15% הנחה
+  - Service Name: כתרים ושתלים
+    Benefits: 10% הנחה, אחריות לשנה
+  - Service Name: יישור שיניים
+    Benefits: 5% הנחה
+  - Service Name: טיפולים קוסמטיים
+    Benefits: ללא הנחה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 3555* או 1-700-50-53-53 שלוחה 1
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/dental-services"
+dentel_services_meuhedet_gold,dentel_services,meuhedet,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/dentel_services/meuhedet/gold.json,"Category: מרפאות שיניים
+Description: מרפאות שיניים מציעות מגוון רחב של שירותי בריאות הפה, כולל בדיקות שגרתיות, ניקויים, סתימות, טיפולי שורש, עקירות, והליכים קוסמטיים. מרפאות אלו מאוישות על ידי רופאי שיניים מורשים ושינניות המשתמשים בציוד מודרני כדי להבטיח טיפול איכותי לפציינטים מכל הגילאים. הטבלה שלהלן מציגה את כל תתי-השירותים במסגרת מרפאות השיניים, ואת התעריפים וההטבות בהתאם למסלולי הביטוח בקופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"". השירותים המוצגים כוללים: כל אחד מהשירותים מוצג עם פירוט ההטבות למסלולי הזהב, הכסף והארד בכל אחת מקופות החולים.
+HMO: מאוחדת
+Tier: זהב
+Services:
+  - Service Name: בדיקות וניקוי שיניים
+    Benefits: חינם כל רבעון, תור ביום
+  - Service Name: סתימות
+    Benefits: 75% הנחה, חומרים פרימיום
+  - Service Name: טיפולי שורש
+    Benefits: 65% הנחה, טיפול ביום אחד
+  - Service Name: כתרים ושתלים
+    Benefits: 55% הנחה, אחריות ל-7 שנים
+  - Service Name: יישור שיניים
+    Benefits: 45% הנחה, כולל מכשיר שקוף
+  - Service Name: טיפולים קוסמטיים
+    Benefits: 35% הנחה, כולל ציפויים
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 3833* או 1-222-3833 שלוחה 2
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/dental-care"
+dentel_services_meuhedet_silver,dentel_services,meuhedet,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/dentel_services/meuhedet/silver.json,"Category: מרפאות שיניים
+Description: מרפאות שיניים מציעות מגוון רחב של שירותי בריאות הפה, כולל בדיקות שגרתיות, ניקויים, סתימות, טיפולי שורש, עקירות, והליכים קוסמטיים. מרפאות אלו מאוישות על ידי רופאי שיניים מורשים ושינניות המשתמשים בציוד מודרני כדי להבטיח טיפול איכותי לפציינטים מכל הגילאים. הטבלה שלהלן מציגה את כל תתי-השירותים במסגרת מרפאות השיניים, ואת התעריפים וההטבות בהתאם למסלולי הביטוח בקופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"". השירותים המוצגים כוללים: כל אחד מהשירותים מוצג עם פירוט ההטבות למסלולי הזהב, הכסף והארד בכל אחת מקופות החולים.
+HMO: מאוחדת
+Tier: כסף
+Services:
+  - Service Name: בדיקות וניקוי שיניים
+    Benefits: חינם פעמיים בשנה, תור תוך 5 ימים
+  - Service Name: סתימות
+    Benefits: 45% הנחה
+  - Service Name: טיפולי שורש
+    Benefits: 35% הנחה
+  - Service Name: כתרים ושתלים
+    Benefits: 30% הנחה, אחריות ל-4 שנים
+  - Service Name: יישור שיניים
+    Benefits: 25% הנחה
+  - Service Name: טיפולים קוסמטיים
+    Benefits: 20% הנחה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 3833* או 1-222-3833 שלוחה 2
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/dental-care"
+dentel_services_meuhedet_bronze,dentel_services,meuhedet,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/dentel_services/meuhedet/bronze.json,"Category: מרפאות שיניים
+Description: מרפאות שיניים מציעות מגוון רחב של שירותי בריאות הפה, כולל בדיקות שגרתיות, ניקויים, סתימות, טיפולי שורש, עקירות, והליכים קוסמטיים. מרפאות אלו מאוישות על ידי רופאי שיניים מורשים ושינניות המשתמשים בציוד מודרני כדי להבטיח טיפול איכותי לפציינטים מכל הגילאים. הטבלה שלהלן מציגה את כל תתי-השירותים במסגרת מרפאות השיניים, ואת התעריפים וההטבות בהתאם למסלולי הביטוח בקופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"". השירותים המוצגים כוללים: כל אחד מהשירותים מוצג עם פירוט ההטבות למסלולי הזהב, הכסף והארד בכל אחת מקופות החולים.
+HMO: מאוחדת
+Tier: ארד
+Services:
+  - Service Name: בדיקות וניקוי שיניים
+    Benefits: 25% הנחה, תור תוך שבועיים
+  - Service Name: סתימות
+    Benefits: 15% הנחה
+  - Service Name: טיפולי שורש
+    Benefits: 10% הנחה
+  - Service Name: כתרים ושתלים
+    Benefits: 5% הנחה, אחריות לשנתיים
+  - Service Name: יישור שיניים
+    Benefits: ללא הנחה
+  - Service Name: טיפולים קוסמטיים
+    Benefits: ללא הנחה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 3833* או 1-222-3833 שלוחה 2
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/dental-care"
+alternative_services_clalit_gold,alternative_services,clalit,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/alternative_services/clalit/gold.json,"Category: רפואה משלימה (רפואה אלטרנטיבית)
+Description: רפואה משלימה, הידועה גם כרפואה אלטרנטיבית, מתייחסת למגוון שיטות טיפול שאינן חלק מהרפואה הקונבנציונלית. שיטות אלו משלבות גישות טיפוליות מסורתיות ומודרניות, המתמקדות בטיפול הוליסטי בגוף ובנפש. קופות החולים בישראל מציעות מגוון טיפולים ברפואה משלימה כחלק משירותי הבריאות המורחבים. הטבלה שלהלן מציגה את הטיפולים העיקריים ברפואה משלימה המוצעים על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הטיפולים המוצגים כוללים:
+HMO: כללית
+Tier: זהב
+Services:
+  - Service Name: דיקור סיני (אקופונקטורה)
+    Benefits: 80% הנחה, עד 16 טיפולים בשנה
+  - Service Name: שיאצו
+    Benefits: 75% הנחה, עד 14 טיפולים בשנה
+  - Service Name: רפלקסולוגיה
+    Benefits: 70% הנחה, עד 12 טיפולים בשנה
+  - Service Name: נטורופתיה
+    Benefits: 80% הנחה, עד 12 טיפולים בשנה
+  - Service Name: הומאופתיה
+    Benefits: 75% הנחה, עד 12 טיפולים בשנה
+  - Service Name: כירופרקטיקה
+    Benefits: 85% הנחה, עד 14 טיפולים בשנה
+Contact Information:
+  - מספרי_טלפון_להזמנת_טיפולים_ברפואה_משלימה:: 2700* או 03-9766111 שלוחה 12
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/lifestyle/alternative_medicine"
+alternative_services_clalit_silver,alternative_services,clalit,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/alternative_services/clalit/silver.json,"Category: רפואה משלימה (רפואה אלטרנטיבית)
+Description: רפואה משלימה, הידועה גם כרפואה אלטרנטיבית, מתייחסת למגוון שיטות טיפול שאינן חלק מהרפואה הקונבנציונלית. שיטות אלו משלבות גישות טיפוליות מסורתיות ומודרניות, המתמקדות בטיפול הוליסטי בגוף ובנפש. קופות החולים בישראל מציעות מגוון טיפולים ברפואה משלימה כחלק משירותי הבריאות המורחבים. הטבלה שלהלן מציגה את הטיפולים העיקריים ברפואה משלימה המוצעים על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הטיפולים המוצגים כוללים:
+HMO: כללית
+Tier: כסף
+Services:
+  - Service Name: דיקור סיני (אקופונקטורה)
+    Benefits: 60% הנחה, עד 10 טיפולים בשנה
+  - Service Name: שיאצו
+    Benefits: 55% הנחה, עד 9 טיפולים בשנה
+  - Service Name: רפלקסולוגיה
+    Benefits: 50% הנחה, עד 8 טיפולים בשנה
+  - Service Name: נטורופתיה
+    Benefits: 60% הנחה, עד 8 טיפולים בשנה
+  - Service Name: הומאופתיה
+    Benefits: 55% הנחה, עד 8 טיפולים בשנה
+  - Service Name: כירופרקטיקה
+    Benefits: 65% הנחה, עד 9 טיפולים בשנה
+Contact Information:
+  - מספרי_טלפון_להזמנת_טיפולים_ברפואה_משלימה:: 2700* או 03-9766111 שלוחה 12
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/lifestyle/alternative_medicine"
+alternative_services_clalit_bronze,alternative_services,clalit,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/alternative_services/clalit/bronze.json,"Category: רפואה משלימה (רפואה אלטרנטיבית)
+Description: רפואה משלימה, הידועה גם כרפואה אלטרנטיבית, מתייחסת למגוון שיטות טיפול שאינן חלק מהרפואה הקונבנציונלית. שיטות אלו משלבות גישות טיפוליות מסורתיות ומודרניות, המתמקדות בטיפול הוליסטי בגוף ובנפש. קופות החולים בישראל מציעות מגוון טיפולים ברפואה משלימה כחלק משירותי הבריאות המורחבים. הטבלה שלהלן מציגה את הטיפולים העיקריים ברפואה משלימה המוצעים על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הטיפולים המוצגים כוללים:
+HMO: כללית
+Tier: ארד
+Services:
+  - Service Name: דיקור סיני (אקופונקטורה)
+    Benefits: 40% הנחה, עד 6 טיפולים בשנה
+  - Service Name: שיאצו
+    Benefits: 35% הנחה, עד 5 טיפולים בשנה
+  - Service Name: רפלקסולוגיה
+    Benefits: 30% הנחה, עד 5 טיפולים בשנה
+  - Service Name: נטורופתיה
+    Benefits: 40% הנחה, עד 5 טיפולים בשנה
+  - Service Name: הומאופתיה
+    Benefits: 35% הנחה, עד 5 טיפולים בשנה
+  - Service Name: כירופרקטיקה
+    Benefits: 45% הנחה, עד 6 טיפולים בשנה
+Contact Information:
+  - מספרי_טלפון_להזמנת_טיפולים_ברפואה_משלימה:: 2700* או 03-9766111 שלוחה 12
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/lifestyle/alternative_medicine"
+alternative_services_maccabi_gold,alternative_services,maccabi,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/alternative_services/maccabi/gold.json,"Category: רפואה משלימה (רפואה אלטרנטיבית)
+Description: רפואה משלימה, הידועה גם כרפואה אלטרנטיבית, מתייחסת למגוון שיטות טיפול שאינן חלק מהרפואה הקונבנציונלית. שיטות אלו משלבות גישות טיפוליות מסורתיות ומודרניות, המתמקדות בטיפול הוליסטי בגוף ובנפש. קופות החולים בישראל מציעות מגוון טיפולים ברפואה משלימה כחלק משירותי הבריאות המורחבים. הטבלה שלהלן מציגה את הטיפולים העיקריים ברפואה משלימה המוצעים על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הטיפולים המוצגים כוללים:
+HMO: מכבי
+Tier: זהב
+Services:
+  - Service Name: דיקור סיני (אקופונקטורה)
+    Benefits: 70% הנחה, עד 20 טיפולים בשנה
+  - Service Name: שיאצו
+    Benefits: 65% הנחה, עד 15 טיפולים בשנה
+  - Service Name: רפלקסולוגיה
+    Benefits: 60% הנחה, עד 12 טיפולים בשנה
+  - Service Name: נטורופתיה
+    Benefits: 70% הנחה, עד 16 טיפולים בשנה
+  - Service Name: הומאופתיה
+    Benefits: 65% הנחה, עד 12 טיפולים בשנה
+  - Service Name: כירופרקטיקה
+    Benefits: 75% הנחה, עד 18 טיפולים בשנה
+Contact Information:
+  - מספרי_טלפון_להזמנת_טיפולים_ברפואה_משלימה:: 3555* או 1-700-50-53-53 שלוחה 10
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/complementary-medicine"
+alternative_services_maccabi_silver,alternative_services,maccabi,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/alternative_services/maccabi/silver.json,"Category: רפואה משלימה (רפואה אלטרנטיבית)
+Description: רפואה משלימה, הידועה גם כרפואה אלטרנטיבית, מתייחסת למגוון שיטות טיפול שאינן חלק מהרפואה הקונבנציונלית. שיטות אלו משלבות גישות טיפוליות מסורתיות ומודרניות, המתמקדות בטיפול הוליסטי בגוף ובנפש. קופות החולים בישראל מציעות מגוון טיפולים ברפואה משלימה כחלק משירותי הבריאות המורחבים. הטבלה שלהלן מציגה את הטיפולים העיקריים ברפואה משלימה המוצעים על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הטיפולים המוצגים כוללים:
+HMO: מכבי
+Tier: כסף
+Services:
+  - Service Name: דיקור סיני (אקופונקטורה)
+    Benefits: 50% הנחה, עד 12 טיפולים בשנה
+  - Service Name: שיאצו
+    Benefits: 45% הנחה, עד 10 טיפולים בשנה
+  - Service Name: רפלקסולוגיה
+    Benefits: 40% הנחה, עד 8 טיפולים בשנה
+  - Service Name: נטורופתיה
+    Benefits: 50% הנחה, עד 10 טיפולים בשנה
+  - Service Name: הומאופתיה
+    Benefits: 45% הנחה, עד 8 טיפולים בשנה
+  - Service Name: כירופרקטיקה
+    Benefits: 55% הנחה, עד 12 טיפולים בשנה
+Contact Information:
+  - מספרי_טלפון_להזמנת_טיפולים_ברפואה_משלימה:: 3555* או 1-700-50-53-53 שלוחה 10
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/complementary-medicine"
+alternative_services_maccabi_bronze,alternative_services,maccabi,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/alternative_services/maccabi/bronze.json,"Category: רפואה משלימה (רפואה אלטרנטיבית)
+Description: רפואה משלימה, הידועה גם כרפואה אלטרנטיבית, מתייחסת למגוון שיטות טיפול שאינן חלק מהרפואה הקונבנציונלית. שיטות אלו משלבות גישות טיפוליות מסורתיות ומודרניות, המתמקדות בטיפול הוליסטי בגוף ובנפש. קופות החולים בישראל מציעות מגוון טיפולים ברפואה משלימה כחלק משירותי הבריאות המורחבים. הטבלה שלהלן מציגה את הטיפולים העיקריים ברפואה משלימה המוצעים על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הטיפולים המוצגים כוללים:
+HMO: מכבי
+Tier: ארד
+Services:
+  - Service Name: דיקור סיני (אקופונקטורה)
+    Benefits: 30% הנחה, עד 8 טיפולים בשנה
+  - Service Name: שיאצו
+    Benefits: 25% הנחה, עד 6 טיפולים בשנה
+  - Service Name: רפלקסולוגיה
+    Benefits: 20% הנחה, עד 5 טיפולים בשנה
+  - Service Name: נטורופתיה
+    Benefits: 30% הנחה, עד 6 טיפולים בשנה
+  - Service Name: הומאופתיה
+    Benefits: 25% הנחה, עד 5 טיפולים בשנה
+  - Service Name: כירופרקטיקה
+    Benefits: 35% הנחה, עד 8 טיפולים בשנה
+Contact Information:
+  - מספרי_טלפון_להזמנת_טיפולים_ברפואה_משלימה:: 3555* או 1-700-50-53-53 שלוחה 10
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/complementary-medicine"
+alternative_services_meuhedet_gold,alternative_services,meuhedet,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/alternative_services/meuhedet/gold.json,"Category: רפואה משלימה (רפואה אלטרנטיבית)
+Description: רפואה משלימה, הידועה גם כרפואה אלטרנטיבית, מתייחסת למגוון שיטות טיפול שאינן חלק מהרפואה הקונבנציונלית. שיטות אלו משלבות גישות טיפוליות מסורתיות ומודרניות, המתמקדות בטיפול הוליסטי בגוף ובנפש. קופות החולים בישראל מציעות מגוון טיפולים ברפואה משלימה כחלק משירותי הבריאות המורחבים. הטבלה שלהלן מציגה את הטיפולים העיקריים ברפואה משלימה המוצעים על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הטיפולים המוצגים כוללים:
+HMO: מאוחדת
+Tier: זהב
+Services:
+  - Service Name: דיקור סיני (אקופונקטורה)
+    Benefits: 75% הנחה, עד 18 טיפולים בשנה
+  - Service Name: שיאצו
+    Benefits: 70% הנחה, עד 12 טיפולים בשנה
+  - Service Name: רפלקסולוגיה
+    Benefits: 65% הנחה, עד 10 טיפולים בשנה
+  - Service Name: נטורופתיה
+    Benefits: 75% הנחה, עד 14 טיפולים בשנה
+  - Service Name: הומאופתיה
+    Benefits: 70% הנחה, עד 10 טיפולים בשנה
+  - Service Name: כירופרקטיקה
+    Benefits: 80% הנחה, עד 16 טיפולים בשנה
+Contact Information:
+  - מספרי_טלפון_להזמנת_טיפולים_ברפואה_משלימה:: 3833* או 1-222-3833 שלוחה 11
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/alternative-medicine"
+alternative_services_meuhedet_silver,alternative_services,meuhedet,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/alternative_services/meuhedet/silver.json,"Category: רפואה משלימה (רפואה אלטרנטיבית)
+Description: רפואה משלימה, הידועה גם כרפואה אלטרנטיבית, מתייחסת למגוון שיטות טיפול שאינן חלק מהרפואה הקונבנציונלית. שיטות אלו משלבות גישות טיפוליות מסורתיות ומודרניות, המתמקדות בטיפול הוליסטי בגוף ובנפש. קופות החולים בישראל מציעות מגוון טיפולים ברפואה משלימה כחלק משירותי הבריאות המורחבים. הטבלה שלהלן מציגה את הטיפולים העיקריים ברפואה משלימה המוצעים על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הטיפולים המוצגים כוללים:
+HMO: מאוחדת
+Tier: כסף
+Services:
+  - Service Name: דיקור סיני (אקופונקטורה)
+    Benefits: 55% הנחה, עד 10 טיפולים בשנה
+  - Service Name: שיאצו
+    Benefits: 50% הנחה, עד 8 טיפולים בשנה
+  - Service Name: רפלקסולוגיה
+    Benefits: 45% הנחה, עד 7 טיפולים בשנה
+  - Service Name: נטורופתיה
+    Benefits: 55% הנחה, עד 9 טיפולים בשנה
+  - Service Name: הומאופתיה
+    Benefits: 50% הנחה, עד 7 טיפולים בשנה
+  - Service Name: כירופרקטיקה
+    Benefits: 60% הנחה, עד 10 טיפולים בשנה
+Contact Information:
+  - מספרי_טלפון_להזמנת_טיפולים_ברפואה_משלימה:: 3833* או 1-222-3833 שלוחה 11
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/alternative-medicine"
+alternative_services_meuhedet_bronze,alternative_services,meuhedet,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/alternative_services/meuhedet/bronze.json,"Category: רפואה משלימה (רפואה אלטרנטיבית)
+Description: רפואה משלימה, הידועה גם כרפואה אלטרנטיבית, מתייחסת למגוון שיטות טיפול שאינן חלק מהרפואה הקונבנציונלית. שיטות אלו משלבות גישות טיפוליות מסורתיות ומודרניות, המתמקדות בטיפול הוליסטי בגוף ובנפש. קופות החולים בישראל מציעות מגוון טיפולים ברפואה משלימה כחלק משירותי הבריאות המורחבים. הטבלה שלהלן מציגה את הטיפולים העיקריים ברפואה משלימה המוצעים על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הטיפולים המוצגים כוללים:
+HMO: מאוחדת
+Tier: ארד
+Services:
+  - Service Name: דיקור סיני (אקופונקטורה)
+    Benefits: 35% הנחה, עד 6 טיפולים בשנה
+  - Service Name: שיאצו
+    Benefits: 30% הנחה, עד 5 טיפולים בשנה
+  - Service Name: רפלקסולוגיה
+    Benefits: 25% הנחה, עד 4 טיפולים בשנה
+  - Service Name: נטורופתיה
+    Benefits: 35% הנחה, עד 5 טיפולים בשנה
+  - Service Name: הומאופתיה
+    Benefits: 30% הנחה, עד 4 טיפולים בשנה
+  - Service Name: כירופרקטיקה
+    Benefits: 40% הנחה, עד 6 טיפולים בשנה
+Contact Information:
+  - מספרי_טלפון_להזמנת_טיפולים_ברפואה_משלימה:: 3833* או 1-222-3833 שלוחה 11
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/alternative-medicine"
+communication_clinic_services_clalit_gold,communication_clinic_services,clalit,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/communication_clinic_services/clalit/gold.json,"Category: מרפאות תקשורת
+Description: מרפאות תקשורת מתמחות באבחון וטיפול בהפרעות תקשורת, שפה, דיבור ובליעה. הן מספקות שירותים מקיפים לילדים ומבוגרים הסובלים ממגוון קשיים תקשורתיים. צוות המרפאות כולל קלינאי תקשורת מומחים, המשתמשים בשיטות טיפול מתקדמות ובטכנולוגיות חדישות לשיפור יכולות התקשורת של המטופלים. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים במרפאות התקשורת של קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: כללית
+Tier: זהב
+Services:
+  - Service Name: אבחון הפרעות שפה ודיבור
+    Benefits: 95% הנחה, כולל תוכנית טיפול
+  - Service Name: טיפול בגמגום
+    Benefits: 85% הנחה, עד 28 טיפולים בשנה
+  - Service Name: טיפול בהפרעות קול
+    Benefits: 80% הנחה, עד 22 טיפולים בשנה
+  - Service Name: אבחון וטיפול בהפרעות בליעה
+    Benefits: 90% הנחה, כולל טיפול ביתי
+  - Service Name: טיפול בעיכוב התפתחותי
+    Benefits: 95% הנחה, עד 45 טיפולים בשנה
+  - Service Name: שיקום שמיעה
+    Benefits: 85% הנחה, כולל קבוצות תמיכה
+Contact Information:
+  - מספרי_טלפון_לקביעת_תורים_במרפאות_תקשורת:: 2700* או 03-9766111 שלוחה 15
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/medical/medical_diagnosis/Pages/speech_therapy.aspx"
+communication_clinic_services_clalit_silver,communication_clinic_services,clalit,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/communication_clinic_services/clalit/silver.json,"Category: מרפאות תקשורת
+Description: מרפאות תקשורת מתמחות באבחון וטיפול בהפרעות תקשורת, שפה, דיבור ובליעה. הן מספקות שירותים מקיפים לילדים ומבוגרים הסובלים ממגוון קשיים תקשורתיים. צוות המרפאות כולל קלינאי תקשורת מומחים, המשתמשים בשיטות טיפול מתקדמות ובטכנולוגיות חדישות לשיפור יכולות התקשורת של המטופלים. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים במרפאות התקשורת של קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: כללית
+Tier: כסף
+Services:
+  - Service Name: אבחון הפרעות שפה ודיבור
+    Benefits: 75% הנחה
+  - Service Name: טיפול בגמגום
+    Benefits: 65% הנחה, עד 22 טיפולים בשנה
+  - Service Name: טיפול בהפרעות קול
+    Benefits: 60% הנחה, עד 16 טיפולים בשנה
+  - Service Name: אבחון וטיפול בהפרעות בליעה
+    Benefits: 70% הנחה
+  - Service Name: טיפול בעיכוב התפתחותי
+    Benefits: 75% הנחה, עד 35 טיפולים בשנה
+  - Service Name: שיקום שמיעה
+    Benefits: 65% הנחה
+Contact Information:
+  - מספרי_טלפון_לקביעת_תורים_במרפאות_תקשורת:: 2700* או 03-9766111 שלוחה 15
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/medical/medical_diagnosis/Pages/speech_therapy.aspx"
+communication_clinic_services_clalit_bronze,communication_clinic_services,clalit,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/communication_clinic_services/clalit/bronze.json,"Category: מרפאות תקשורת
+Description: מרפאות תקשורת מתמחות באבחון וטיפול בהפרעות תקשורת, שפה, דיבור ובליעה. הן מספקות שירותים מקיפים לילדים ומבוגרים הסובלים ממגוון קשיים תקשורתיים. צוות המרפאות כולל קלינאי תקשורת מומחים, המשתמשים בשיטות טיפול מתקדמות ובטכנולוגיות חדישות לשיפור יכולות התקשורת של המטופלים. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים במרפאות התקשורת של קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: כללית
+Tier: ארד
+Services:
+  - Service Name: אבחון הפרעות שפה ודיבור
+    Benefits: 55% הנחה
+  - Service Name: טיפול בגמגום
+    Benefits: 45% הנחה, עד 15 טיפולים בשנה
+  - Service Name: טיפול בהפרעות קול
+    Benefits: 40% הנחה, עד 12 טיפולים בשנה
+  - Service Name: אבחון וטיפול בהפרעות בליעה
+    Benefits: 50% הנחה
+  - Service Name: טיפול בעיכוב התפתחותי
+    Benefits: 55% הנחה, עד 25 טיפולים בשנה
+  - Service Name: שיקום שמיעה
+    Benefits: 45% הנחה
+Contact Information:
+  - מספרי_טלפון_לקביעת_תורים_במרפאות_תקשורת:: 2700* או 03-9766111 שלוחה 15
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/medical/medical_diagnosis/Pages/speech_therapy.aspx"
+communication_clinic_services_maccabi_gold,communication_clinic_services,maccabi,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/communication_clinic_services/maccabi/gold.json,"Category: מרפאות תקשורת
+Description: מרפאות תקשורת מתמחות באבחון וטיפול בהפרעות תקשורת, שפה, דיבור ובליעה. הן מספקות שירותים מקיפים לילדים ומבוגרים הסובלים ממגוון קשיים תקשורתיים. צוות המרפאות כולל קלינאי תקשורת מומחים, המשתמשים בשיטות טיפול מתקדמות ובטכנולוגיות חדישות לשיפור יכולות התקשורת של המטופלים. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים במרפאות התקשורת של קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מכבי
+Tier: זהב
+Services:
+  - Service Name: אבחון הפרעות שפה ודיבור
+    Benefits: 90% הנחה, כולל דוח מפורט
+  - Service Name: טיפול בגמגום
+    Benefits: 80% הנחה, עד 30 טיפולים בשנה
+  - Service Name: טיפול בהפרעות קול
+    Benefits: 75% הנחה, עד 20 טיפולים בשנה
+  - Service Name: אבחון וטיפול בהפרעות בליעה
+    Benefits: 85% הנחה, כולל בדיקת וידאופלורוסקופיה
+  - Service Name: טיפול בעיכוב התפתחותי
+    Benefits: 90% הנחה, עד 40 טיפולים בשנה
+  - Service Name: שיקום שמיעה
+    Benefits: 80% הנחה, כולל התאמת מכשירי שמיעה
+Contact Information:
+  - מספרי_טלפון_לקביעת_תורים_במרפאות_תקשורת:: 3555* או 1-700-50-53-53 שלוחה 13
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/communication-clinics"
+communication_clinic_services_maccabi_silver,communication_clinic_services,maccabi,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/communication_clinic_services/maccabi/silver.json,"Category: מרפאות תקשורת
+Description: מרפאות תקשורת מתמחות באבחון וטיפול בהפרעות תקשורת, שפה, דיבור ובליעה. הן מספקות שירותים מקיפים לילדים ומבוגרים הסובלים ממגוון קשיים תקשורתיים. צוות המרפאות כולל קלינאי תקשורת מומחים, המשתמשים בשיטות טיפול מתקדמות ובטכנולוגיות חדישות לשיפור יכולות התקשורת של המטופלים. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים במרפאות התקשורת של קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מכבי
+Tier: כסף
+Services:
+  - Service Name: אבחון הפרעות שפה ודיבור
+    Benefits: 70% הנחה
+  - Service Name: טיפול בגמגום
+    Benefits: 60% הנחה, עד 20 טיפולים בשנה
+  - Service Name: טיפול בהפרעות קול
+    Benefits: 55% הנחה, עד 15 טיפולים בשנה
+  - Service Name: אבחון וטיפול בהפרעות בליעה
+    Benefits: 65% הנחה
+  - Service Name: טיפול בעיכוב התפתחותי
+    Benefits: 70% הנחה, עד 30 טיפולים בשנה
+  - Service Name: שיקום שמיעה
+    Benefits: 60% הנחה
+Contact Information:
+  - מספרי_טלפון_לקביעת_תורים_במרפאות_תקשורת:: 3555* או 1-700-50-53-53 שלוחה 13
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/communication-clinics"
+communication_clinic_services_maccabi_bronze,communication_clinic_services,maccabi,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/communication_clinic_services/maccabi/bronze.json,"Category: מרפאות תקשורת
+Description: מרפאות תקשורת מתמחות באבחון וטיפול בהפרעות תקשורת, שפה, דיבור ובליעה. הן מספקות שירותים מקיפים לילדים ומבוגרים הסובלים ממגוון קשיים תקשורתיים. צוות המרפאות כולל קלינאי תקשורת מומחים, המשתמשים בשיטות טיפול מתקדמות ובטכנולוגיות חדישות לשיפור יכולות התקשורת של המטופלים. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים במרפאות התקשורת של קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מכבי
+Tier: ארד
+Services:
+  - Service Name: אבחון הפרעות שפה ודיבור
+    Benefits: 50% הנחה
+  - Service Name: טיפול בגמגום
+    Benefits: 40% הנחה, עד 12 טיפולים בשנה
+  - Service Name: טיפול בהפרעות קול
+    Benefits: 35% הנחה, עד 10 טיפולים בשנה
+  - Service Name: אבחון וטיפול בהפרעות בליעה
+    Benefits: 45% הנחה
+  - Service Name: טיפול בעיכוב התפתחותי
+    Benefits: 50% הנחה, עד 20 טיפולים בשנה
+  - Service Name: שיקום שמיעה
+    Benefits: 40% הנחה
+Contact Information:
+  - מספרי_טלפון_לקביעת_תורים_במרפאות_תקשורת:: 3555* או 1-700-50-53-53 שלוחה 13
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/communication-clinics"
+communication_clinic_services_meuhedet_gold,communication_clinic_services,meuhedet,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/communication_clinic_services/meuhedet/gold.json,"Category: מרפאות תקשורת
+Description: מרפאות תקשורת מתמחות באבחון וטיפול בהפרעות תקשורת, שפה, דיבור ובליעה. הן מספקות שירותים מקיפים לילדים ומבוגרים הסובלים ממגוון קשיים תקשורתיים. צוות המרפאות כולל קלינאי תקשורת מומחים, המשתמשים בשיטות טיפול מתקדמות ובטכנולוגיות חדישות לשיפור יכולות התקשורת של המטופלים. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים במרפאות התקשורת של קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מאוחדת
+Tier: זהב
+Services:
+  - Service Name: אבחון הפרעות שפה ודיבור
+    Benefits: 85% הנחה, כולל ייעוץ להורים
+  - Service Name: טיפול בגמגום
+    Benefits: 75% הנחה, עד 25 טיפולים בשנה
+  - Service Name: טיפול בהפרעות קול
+    Benefits: 70% הנחה, עד 18 טיפולים בשנה
+  - Service Name: אבחון וטיפול בהפרעות בליעה
+    Benefits: 80% הנחה, כולל ייעוץ תזונתי
+  - Service Name: טיפול בעיכוב התפתחותי
+    Benefits: 85% הנחה, עד 35 טיפולים בשנה
+  - Service Name: שיקום שמיעה
+    Benefits: 75% הנחה, כולל תמיכה טכנית
+Contact Information:
+  - מספרי_טלפון_לקביעת_תורים_במרפאות_תקשורת:: 3833* או 1-222-3833 שלוחה 14
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/speech-therapy"
+communication_clinic_services_meuhedet_silver,communication_clinic_services,meuhedet,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/communication_clinic_services/meuhedet/silver.json,"Category: מרפאות תקשורת
+Description: מרפאות תקשורת מתמחות באבחון וטיפול בהפרעות תקשורת, שפה, דיבור ובליעה. הן מספקות שירותים מקיפים לילדים ומבוגרים הסובלים ממגוון קשיים תקשורתיים. צוות המרפאות כולל קלינאי תקשורת מומחים, המשתמשים בשיטות טיפול מתקדמות ובטכנולוגיות חדישות לשיפור יכולות התקשורת של המטופלים. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים במרפאות התקשורת של קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מאוחדת
+Tier: כסף
+Services:
+  - Service Name: אבחון הפרעות שפה ודיבור
+    Benefits: 65% הנחה
+  - Service Name: טיפול בגמגום
+    Benefits: 55% הנחה, עד 18 טיפולים בשנה
+  - Service Name: טיפול בהפרעות קול
+    Benefits: 50% הנחה, עד 12 טיפולים בשנה
+  - Service Name: אבחון וטיפול בהפרעות בליעה
+    Benefits: 60% הנחה
+  - Service Name: טיפול בעיכוב התפתחותי
+    Benefits: 65% הנחה, עד 25 טיפולים בשנה
+  - Service Name: שיקום שמיעה
+    Benefits: 55% הנחה
+Contact Information:
+  - מספרי_טלפון_לקביעת_תורים_במרפאות_תקשורת:: 3833* או 1-222-3833 שלוחה 14
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/speech-therapy"
+communication_clinic_services_meuhedet_bronze,communication_clinic_services,meuhedet,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/communication_clinic_services/meuhedet/bronze.json,"Category: מרפאות תקשורת
+Description: מרפאות תקשורת מתמחות באבחון וטיפול בהפרעות תקשורת, שפה, דיבור ובליעה. הן מספקות שירותים מקיפים לילדים ומבוגרים הסובלים ממגוון קשיים תקשורתיים. צוות המרפאות כולל קלינאי תקשורת מומחים, המשתמשים בשיטות טיפול מתקדמות ובטכנולוגיות חדישות לשיפור יכולות התקשורת של המטופלים. הטבלה שלהלן מציגה את השירותים העיקריים המוצעים במרפאות התקשורת של קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מאוחדת
+Tier: ארד
+Services:
+  - Service Name: אבחון הפרעות שפה ודיבור
+    Benefits: 45% הנחה
+  - Service Name: טיפול בגמגום
+    Benefits: 35% הנחה, עד 10 טיפולים בשנה
+  - Service Name: טיפול בהפרעות קול
+    Benefits: 30% הנחה, עד 8 טיפולים בשנה
+  - Service Name: אבחון וטיפול בהפרעות בליעה
+    Benefits: 40% הנחה
+  - Service Name: טיפול בעיכוב התפתחותי
+    Benefits: 45% הנחה, עד 18 טיפולים בשנה
+  - Service Name: שיקום שמיעה
+    Benefits: 35% הנחה
+Contact Information:
+  - מספרי_טלפון_לקביעת_תורים_במרפאות_תקשורת:: 3833* או 1-222-3833 שלוחה 14
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/speech-therapy"
+workshops_services_clalit_gold,workshops_services,clalit,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/workshops_services/clalit/gold.json,"Category: סדנאות בריאות
+Description: סדנאות בריאות הן חלק חשוב מתוכניות קידום הבריאות של קופות החולים. הן מציעות מגוון רחב של פעילויות חינוכיות ומעשיות המיועדות לשפר את בריאות המבוטחים, להקנות ידע ומיומנויות לאורח חיים בריא, ולסייע בהתמודדות עם מצבי בריאות שונים. הטבלה שלהלן מציגה את הסדנאות העיקריות המוצעות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הסדנאות המוצגות כוללות:
+HMO: כללית
+Tier: זהב
+Services:
+  - Service Name: הפסקת עישון
+    Benefits: חינם, כולל תמיכה קבוצתית מתמשכת
+  - Service Name: תזונה נכונה
+    Benefits: חינם, כולל ליווי דיגיטלי לחצי שנה
+  - Service Name: פעילות גופנית
+    Benefits: חינם, כולל ערכת אימון ביתית
+  - Service Name: ניהול מתח
+    Benefits: חינם, כולל אפליקציית מיינדפולנס לשנה
+  - Service Name: סוכרת
+    Benefits: חינם, כולל קורס בישול לסוכרתיים
+  - Service Name: הריון ולידה
+    Benefits: חינם, כולל סדנת עיסוי תינוקות
+Contact Information:
+  - מספרי_טלפון_להרשמה_לסדנאות:: 2700* או 03-9766111 שלוחה 9
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/lifestyle/health-workshops"
+workshops_services_clalit_silver,workshops_services,clalit,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/workshops_services/clalit/silver.json,"Category: סדנאות בריאות
+Description: סדנאות בריאות הן חלק חשוב מתוכניות קידום הבריאות של קופות החולים. הן מציעות מגוון רחב של פעילויות חינוכיות ומעשיות המיועדות לשפר את בריאות המבוטחים, להקנות ידע ומיומנויות לאורח חיים בריא, ולסייע בהתמודדות עם מצבי בריאות שונים. הטבלה שלהלן מציגה את הסדנאות העיקריות המוצעות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הסדנאות המוצגות כוללות:
+HMO: כללית
+Tier: כסף
+Services:
+  - Service Name: הפסקת עישון
+    Benefits: 70% הנחה
+  - Service Name: תזונה נכונה
+    Benefits: 75% הנחה
+  - Service Name: פעילות גופנית
+    Benefits: 65% הנחה
+  - Service Name: ניהול מתח
+    Benefits: 60% הנחה
+  - Service Name: סוכרת
+    Benefits: 80% הנחה
+  - Service Name: הריון ולידה
+    Benefits: 75% הנחה
+Contact Information:
+  - מספרי_טלפון_להרשמה_לסדנאות:: 2700* או 03-9766111 שלוחה 9
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/lifestyle/health-workshops"
+workshops_services_clalit_bronze,workshops_services,clalit,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/workshops_services/clalit/bronze.json,"Category: סדנאות בריאות
+Description: סדנאות בריאות הן חלק חשוב מתוכניות קידום הבריאות של קופות החולים. הן מציעות מגוון רחב של פעילויות חינוכיות ומעשיות המיועדות לשפר את בריאות המבוטחים, להקנות ידע ומיומנויות לאורח חיים בריא, ולסייע בהתמודדות עם מצבי בריאות שונים. הטבלה שלהלן מציגה את הסדנאות העיקריות המוצעות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הסדנאות המוצגות כוללות:
+HMO: כללית
+Tier: ארד
+Services:
+  - Service Name: הפסקת עישון
+    Benefits: 40% הנחה
+  - Service Name: תזונה נכונה
+    Benefits: 45% הנחה
+  - Service Name: פעילות גופנית
+    Benefits: 35% הנחה
+  - Service Name: ניהול מתח
+    Benefits: 30% הנחה
+  - Service Name: סוכרת
+    Benefits: 55% הנחה
+  - Service Name: הריון ולידה
+    Benefits: 45% הנחה
+Contact Information:
+  - מספרי_טלפון_להרשמה_לסדנאות:: 2700* או 03-9766111 שלוחה 9
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/lifestyle/health-workshops"
+workshops_services_maccabi_gold,workshops_services,maccabi,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/workshops_services/maccabi/gold.json,"Category: סדנאות בריאות
+Description: סדנאות בריאות הן חלק חשוב מתוכניות קידום הבריאות של קופות החולים. הן מציעות מגוון רחב של פעילויות חינוכיות ומעשיות המיועדות לשפר את בריאות המבוטחים, להקנות ידע ומיומנויות לאורח חיים בריא, ולסייע בהתמודדות עם מצבי בריאות שונים. הטבלה שלהלן מציגה את הסדנאות העיקריות המוצעות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הסדנאות המוצגות כוללות:
+HMO: מכבי
+Tier: זהב
+Services:
+  - Service Name: הפסקת עישון
+    Benefits: חינם, כולל טיפול תרופתי
+  - Service Name: תזונה נכונה
+    Benefits: חינם, כולל 3 פגישות אישיות עם דיאטנית
+  - Service Name: פעילות גופנית
+    Benefits: חינם, כולל מנוי לחודש למכון כושר
+  - Service Name: ניהול מתח
+    Benefits: חינם, כולל 10 מפגשי מדיטציה
+  - Service Name: סוכרת
+    Benefits: חינם, כולל מד סוכר רציף לחודש
+  - Service Name: הריון ולידה
+    Benefits: חינם, כולל קורס החייאת תינוקות
+Contact Information:
+  - מספרי_טלפון_להרשמה_לסדנאות:: 3555* או 1-700-50-53-53 שלוחה 7
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/health-workshops"
+workshops_services_maccabi_silver,workshops_services,maccabi,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/workshops_services/maccabi/silver.json,"Category: סדנאות בריאות
+Description: סדנאות בריאות הן חלק חשוב מתוכניות קידום הבריאות של קופות החולים. הן מציעות מגוון רחב של פעילויות חינוכיות ומעשיות המיועדות לשפר את בריאות המבוטחים, להקנות ידע ומיומנויות לאורח חיים בריא, ולסייע בהתמודדות עם מצבי בריאות שונים. הטבלה שלהלן מציגה את הסדנאות העיקריות המוצעות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הסדנאות המוצגות כוללות:
+HMO: מכבי
+Tier: כסף
+Services:
+  - Service Name: הפסקת עישון
+    Benefits: 50% הנחה, 25% הנחה על טיפול תרופתי
+  - Service Name: תזונה נכונה
+    Benefits: 70% הנחה, פגישה אחת עם דיאטנית
+  - Service Name: פעילות גופנית
+    Benefits: 60% הנחה
+  - Service Name: ניהול מתח
+    Benefits: 65% הנחה, 5 מפגשי מדיטציה
+  - Service Name: סוכרת
+    Benefits: 75% הנחה
+  - Service Name: הריון ולידה
+    Benefits: 70% הנחה
+Contact Information:
+  - מספרי_טלפון_להרשמה_לסדנאות:: 3555* או 1-700-50-53-53 שלוחה 7
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/health-workshops"
+workshops_services_maccabi_bronze,workshops_services,maccabi,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/workshops_services/maccabi/bronze.json,"Category: סדנאות בריאות
+Description: סדנאות בריאות הן חלק חשוב מתוכניות קידום הבריאות של קופות החולים. הן מציעות מגוון רחב של פעילויות חינוכיות ומעשיות המיועדות לשפר את בריאות המבוטחים, להקנות ידע ומיומנויות לאורח חיים בריא, ולסייע בהתמודדות עם מצבי בריאות שונים. הטבלה שלהלן מציגה את הסדנאות העיקריות המוצעות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הסדנאות המוצגות כוללות:
+HMO: מכבי
+Tier: ארד
+Services:
+  - Service Name: הפסקת עישון
+    Benefits: 25% הנחה
+  - Service Name: תזונה נכונה
+    Benefits: 40% הנחה
+  - Service Name: פעילות גופנית
+    Benefits: 30% הנחה
+  - Service Name: ניהול מתח
+    Benefits: 35% הנחה
+  - Service Name: סוכרת
+    Benefits: 50% הנחה
+  - Service Name: הריון ולידה
+    Benefits: 40% הנחה
+Contact Information:
+  - מספרי_טלפון_להרשמה_לסדנאות:: 3555* או 1-700-50-53-53 שלוחה 7
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/health-workshops"
+workshops_services_meuhedet_gold,workshops_services,meuhedet,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/workshops_services/meuhedet/gold.json,"Category: סדנאות בריאות
+Description: סדנאות בריאות הן חלק חשוב מתוכניות קידום הבריאות של קופות החולים. הן מציעות מגוון רחב של פעילויות חינוכיות ומעשיות המיועדות לשפר את בריאות המבוטחים, להקנות ידע ומיומנויות לאורח חיים בריא, ולסייע בהתמודדות עם מצבי בריאות שונים. הטבלה שלהלן מציגה את הסדנאות העיקריות המוצעות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הסדנאות המוצגות כוללות:
+HMO: מאוחדת
+Tier: זהב
+Services:
+  - Service Name: הפסקת עישון
+    Benefits: חינם, כולל מעקב אישי לשנה
+  - Service Name: תזונה נכונה
+    Benefits: חינם, כולל תוכנית תזונה אישית
+  - Service Name: פעילות גופנית
+    Benefits: חינם, כולל 5 אימונים אישיים
+  - Service Name: ניהול מתח
+    Benefits: חינם, כולל סדנת יוגה שבועית לחודשיים
+  - Service Name: סוכרת
+    Benefits: חינם, כולל ליווי אישי של אחות סוכרת
+  - Service Name: הריון ולידה
+    Benefits: חינם, כולל 3 מפגשי ייעוץ הנקה
+Contact Information:
+  - מספרי_טלפון_להרשמה_לסדנאות:: 3833* או 1-222-3833 שלוחה 8
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/health-workshops"
+workshops_services_meuhedet_silver,workshops_services,meuhedet,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/workshops_services/meuhedet/silver.json,"Category: סדנאות בריאות
+Description: סדנאות בריאות הן חלק חשוב מתוכניות קידום הבריאות של קופות החולים. הן מציעות מגוון רחב של פעילויות חינוכיות ומעשיות המיועדות לשפר את בריאות המבוטחים, להקנות ידע ומיומנויות לאורח חיים בריא, ולסייע בהתמודדות עם מצבי בריאות שונים. הטבלה שלהלן מציגה את הסדנאות העיקריות המוצעות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הסדנאות המוצגות כוללות:
+HMO: מאוחדת
+Tier: כסף
+Services:
+  - Service Name: הפסקת עישון
+    Benefits: 60% הנחה
+  - Service Name: תזונה נכונה
+    Benefits: 65% הנחה
+  - Service Name: פעילות גופנית
+    Benefits: 55% הנחה, 2 אימונים אישיים
+  - Service Name: ניהול מתח
+    Benefits: 70% הנחה
+  - Service Name: סוכרת
+    Benefits: 70% הנחה
+  - Service Name: הריון ולידה
+    Benefits: 65% הנחה, מפגש ייעוץ הנקה אחד
+Contact Information:
+  - מספרי_טלפון_להרשמה_לסדנאות:: 3833* או 1-222-3833 שלוחה 8
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/health-workshops"
+workshops_services_meuhedet_bronze,workshops_services,meuhedet,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/workshops_services/meuhedet/bronze.json,"Category: סדנאות בריאות
+Description: סדנאות בריאות הן חלק חשוב מתוכניות קידום הבריאות של קופות החולים. הן מציעות מגוון רחב של פעילויות חינוכיות ומעשיות המיועדות לשפר את בריאות המבוטחים, להקנות ידע ומיומנויות לאורח חיים בריא, ולסייע בהתמודדות עם מצבי בריאות שונים. הטבלה שלהלן מציגה את הסדנאות העיקריות המוצעות על ידי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" ואת ההטבות הניתנות למבוטחים במסלולי הביטוח השונים. הסדנאות המוצגות כוללות:
+HMO: מאוחדת
+Tier: ארד
+Services:
+  - Service Name: הפסקת עישון
+    Benefits: 30% הנחה
+  - Service Name: תזונה נכונה
+    Benefits: 35% הנחה
+  - Service Name: פעילות גופנית
+    Benefits: 25% הנחה
+  - Service Name: ניהול מתח
+    Benefits: 40% הנחה
+  - Service Name: סוכרת
+    Benefits: 45% הנחה
+  - Service Name: הריון ולידה
+    Benefits: 35% הנחה
+Contact Information:
+  - מספרי_טלפון_להרשמה_לסדנאות:: 3833* או 1-222-3833 שלוחה 8
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/health-workshops"
+optometry_services_clalit_gold,optometry_services,clalit,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/optometry_services/clalit/gold.json,"Category: אופטומטריה
+Description: אופטומטריה היא תחום העוסק בבריאות העיניים, הראייה ומערכת הראייה. אופטומטריסטים הם אנשי מקצוע המוסמכים לבצע בדיקות ראייה, לאבחן בעיות ראייה ולהתאים פתרונות כגון משקפיים, עדשות מגע ועזרים אופטיים אחרים. הטבלה שלהלן מציגה את השירותים העיקריים בתחום האופטומטריה ואת ההטבות הניתנות למבוטחי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: כללית
+Tier: זהב
+Services:
+  - Service Name: בדיקות ראייה
+    Benefits: חינם כל חצי שנה, כולל בדיקת שדה ראייה
+  - Service Name: משקפי ראייה
+    Benefits: 75% הנחה עד 900 ₪, החלפה כל שנתיים
+  - Service Name: עדשות מגע
+    Benefits: 65% הנחה, כולל עדשות ניסיון חינם
+  - Service Name: טיפולים לתיקון ראייה
+    Benefits: 55% הנחה על ניתוח לייזר, כולל אחריות ל-5 שנים
+  - Service Name: אביזרי ראייה מיוחדים
+    Benefits: 75% הנחה על מכשירי ראייה ירודה, כולל תמיכה טכנית
+  - Service Name: טיפול בילדים
+    Benefits: חינם עד גיל 18, כולל בדיקות התפתחות ראייה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 2700* או 03-9766111 שלוחה 6
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/optometry"
+optometry_services_clalit_silver,optometry_services,clalit,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/optometry_services/clalit/silver.json,"Category: אופטומטריה
+Description: אופטומטריה היא תחום העוסק בבריאות העיניים, הראייה ומערכת הראייה. אופטומטריסטים הם אנשי מקצוע המוסמכים לבצע בדיקות ראייה, לאבחן בעיות ראייה ולהתאים פתרונות כגון משקפיים, עדשות מגע ועזרים אופטיים אחרים. הטבלה שלהלן מציגה את השירותים העיקריים בתחום האופטומטריה ואת ההטבות הניתנות למבוטחי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: כללית
+Tier: כסף
+Services:
+  - Service Name: בדיקות ראייה
+    Benefits: חינם פעם בשנה
+  - Service Name: משקפי ראייה
+    Benefits: 55% הנחה עד 650 ₪, החלפה כל 3 שנים
+  - Service Name: עדשות מגע
+    Benefits: 45% הנחה
+  - Service Name: טיפולים לתיקון ראייה
+    Benefits: 35% הנחה על ניתוח לייזר
+  - Service Name: אביזרי ראייה מיוחדים
+    Benefits: 55% הנחה על מכשירי ראייה ירודה
+  - Service Name: טיפול בילדים
+    Benefits: חינם עד גיל 16, 55% הנחה על בדיקות התפתחות ראייה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 2700* או 03-9766111 שלוחה 6
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/optometry"
+optometry_services_clalit_bronze,optometry_services,clalit,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/optometry_services/clalit/bronze.json,"Category: אופטומטריה
+Description: אופטומטריה היא תחום העוסק בבריאות העיניים, הראייה ומערכת הראייה. אופטומטריסטים הם אנשי מקצוע המוסמכים לבצע בדיקות ראייה, לאבחן בעיות ראייה ולהתאים פתרונות כגון משקפיים, עדשות מגע ועזרים אופטיים אחרים. הטבלה שלהלן מציגה את השירותים העיקריים בתחום האופטומטריה ואת ההטבות הניתנות למבוטחי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: כללית
+Tier: ארד
+Services:
+  - Service Name: בדיקות ראייה
+    Benefits: 30% הנחה על בדיקה שנתית
+  - Service Name: משקפי ראייה
+    Benefits: 35% הנחה עד 450 ₪, החלפה כל 4 שנים
+  - Service Name: עדשות מגע
+    Benefits: 25% הנחה
+  - Service Name: טיפולים לתיקון ראייה
+    Benefits: 20% הנחה על ניתוח לייזר
+  - Service Name: אביזרי ראייה מיוחדים
+    Benefits: 35% הנחה על מכשירי ראייה ירודה
+  - Service Name: טיפול בילדים
+    Benefits: חינם עד גיל 14, 35% הנחה על בדיקות התפתחות ראייה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 2700* או 03-9766111 שלוחה 6
+  - phone: 03-9766111
+  - website: https://www.clalit.co.il/he/optometry"
+optometry_services_maccabi_gold,optometry_services,maccabi,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/optometry_services/maccabi/gold.json,"Category: אופטומטריה
+Description: אופטומטריה היא תחום העוסק בבריאות העיניים, הראייה ומערכת הראייה. אופטומטריסטים הם אנשי מקצוע המוסמכים לבצע בדיקות ראייה, לאבחן בעיות ראייה ולהתאים פתרונות כגון משקפיים, עדשות מגע ועזרים אופטיים אחרים. הטבלה שלהלן מציגה את השירותים העיקריים בתחום האופטומטריה ואת ההטבות הניתנות למבוטחי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מכבי
+Tier: זהב
+Services:
+  - Service Name: בדיקות ראייה
+    Benefits: חינם פעם בשנה, כולל בדיקת לחץ תוך עיני
+  - Service Name: משקפי ראייה
+    Benefits: 70% הנחה עד 1000 ₪, החלפה כל שנתיים
+  - Service Name: עדשות מגע
+    Benefits: 60% הנחה, כולל ערכת טיפול שנתית
+  - Service Name: טיפולים לתיקון ראייה
+    Benefits: 50% הנחה על ניתוח לייזר, כולל בדיקות מקדימות
+  - Service Name: אביזרי ראייה מיוחדים
+    Benefits: 70% הנחה על מכשירי ראייה ירודה, השאלת ציוד לניסיון
+  - Service Name: טיפול בילדים
+    Benefits: חינם עד גיל 18, כולל טיפולי עין עצלה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 3555* או 1-700-50-53-53 שלוחה 4
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/optometry-services"
+optometry_services_maccabi_silver,optometry_services,maccabi,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/optometry_services/maccabi/silver.json,"Category: אופטומטריה
+Description: אופטומטריה היא תחום העוסק בבריאות העיניים, הראייה ומערכת הראייה. אופטומטריסטים הם אנשי מקצוע המוסמכים לבצע בדיקות ראייה, לאבחן בעיות ראייה ולהתאים פתרונות כגון משקפיים, עדשות מגע ועזרים אופטיים אחרים. הטבלה שלהלן מציגה את השירותים העיקריים בתחום האופטומטריה ואת ההטבות הניתנות למבוטחי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מכבי
+Tier: כסף
+Services:
+  - Service Name: בדיקות ראייה
+    Benefits: 50% הנחה על בדיקה שנתית
+  - Service Name: משקפי ראייה
+    Benefits: 50% הנחה עד 700 ₪, החלפה כל 3 שנים
+  - Service Name: עדשות מגע
+    Benefits: 40% הנחה
+  - Service Name: טיפולים לתיקון ראייה
+    Benefits: 30% הנחה על ניתוח לייזר
+  - Service Name: אביזרי ראייה מיוחדים
+    Benefits: 50% הנחה על מכשירי ראייה ירודה
+  - Service Name: טיפול בילדים
+    Benefits: חינם עד גיל 16, 50% הנחה על טיפולי עין עצלה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 3555* או 1-700-50-53-53 שלוחה 4
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/optometry-services"
+optometry_services_maccabi_bronze,optometry_services,maccabi,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/optometry_services/maccabi/bronze.json,"Category: אופטומטריה
+Description: אופטומטריה היא תחום העוסק בבריאות העיניים, הראייה ומערכת הראייה. אופטומטריסטים הם אנשי מקצוע המוסמכים לבצע בדיקות ראייה, לאבחן בעיות ראייה ולהתאים פתרונות כגון משקפיים, עדשות מגע ועזרים אופטיים אחרים. הטבלה שלהלן מציגה את השירותים העיקריים בתחום האופטומטריה ואת ההטבות הניתנות למבוטחי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מכבי
+Tier: ארד
+Services:
+  - Service Name: בדיקות ראייה
+    Benefits: 25% הנחה על בדיקה שנתית
+  - Service Name: משקפי ראייה
+    Benefits: 30% הנחה עד 500 ₪, החלפה כל 4 שנים
+  - Service Name: עדשות מגע
+    Benefits: 20% הנחה
+  - Service Name: טיפולים לתיקון ראייה
+    Benefits: 15% הנחה על ניתוח לייזר
+  - Service Name: אביזרי ראייה מיוחדים
+    Benefits: 30% הנחה על מכשירי ראייה ירודה
+  - Service Name: טיפול בילדים
+    Benefits: חינם עד גיל 14, 30% הנחה על טיפולי עין עצלה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 3555* או 1-700-50-53-53 שלוחה 4
+  - phone: 1-700-50-53-53
+  - website: https://www.maccabi4u.co.il/optometry-services"
+optometry_services_meuhedet_gold,optometry_services,meuhedet,gold,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/optometry_services/meuhedet/gold.json,"Category: אופטומטריה
+Description: אופטומטריה היא תחום העוסק בבריאות העיניים, הראייה ומערכת הראייה. אופטומטריסטים הם אנשי מקצוע המוסמכים לבצע בדיקות ראייה, לאבחן בעיות ראייה ולהתאים פתרונות כגון משקפיים, עדשות מגע ועזרים אופטיים אחרים. הטבלה שלהלן מציגה את השירותים העיקריים בתחום האופטומטריה ואת ההטבות הניתנות למבוטחי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מאוחדת
+Tier: זהב
+Services:
+  - Service Name: בדיקות ראייה
+    Benefits: חינם פעמיים בשנה, כולל מיפוי רשתית
+  - Service Name: משקפי ראייה
+    Benefits: 65% הנחה עד 1200 ₪, החלפה כל שנה וחצי
+  - Service Name: עדשות מגע
+    Benefits: 55% הנחה, כולל בדיקת התאמה חינם
+  - Service Name: טיפולים לתיקון ראייה
+    Benefits: 45% הנחה על ניתוח לייזר, כולל טיפולי המשך
+  - Service Name: אביזרי ראייה מיוחדים
+    Benefits: 65% הנחה על מכשירי ראייה ירודה, כולל הדרכה אישית
+  - Service Name: טיפול בילדים
+    Benefits: חינם עד גיל 18, כולל אימוני ראייה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 3833* או 1-222-3833 שלוחה 5
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/eye-care"
+optometry_services_meuhedet_silver,optometry_services,meuhedet,silver,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/optometry_services/meuhedet/silver.json,"Category: אופטומטריה
+Description: אופטומטריה היא תחום העוסק בבריאות העיניים, הראייה ומערכת הראייה. אופטומטריסטים הם אנשי מקצוע המוסמכים לבצע בדיקות ראייה, לאבחן בעיות ראייה ולהתאים פתרונות כגון משקפיים, עדשות מגע ועזרים אופטיים אחרים. הטבלה שלהלן מציגה את השירותים העיקריים בתחום האופטומטריה ואת ההטבות הניתנות למבוטחי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מאוחדת
+Tier: כסף
+Services:
+  - Service Name: בדיקות ראייה
+    Benefits: חינם פעם בשנה
+  - Service Name: משקפי ראייה
+    Benefits: 45% הנחה עד 800 ₪, החלפה כל 3 שנים
+  - Service Name: עדשות מגע
+    Benefits: 35% הנחה
+  - Service Name: טיפולים לתיקון ראייה
+    Benefits: 25% הנחה על ניתוח לייזר
+  - Service Name: אביזרי ראייה מיוחדים
+    Benefits: 45% הנחה על מכשירי ראייה ירודה
+  - Service Name: טיפול בילדים
+    Benefits: חינם עד גיל 16, 45% הנחה על אימוני ראייה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 3833* או 1-222-3833 שלוחה 5
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/eye-care"
+optometry_services_meuhedet_bronze,optometry_services,meuhedet,bronze,/Users/mayarozin/Documents/לימודים/HA/phase2/medical-services-chatbot/data/processed_data/optometry_services/meuhedet/bronze.json,"Category: אופטומטריה
+Description: אופטומטריה היא תחום העוסק בבריאות העיניים, הראייה ומערכת הראייה. אופטומטריסטים הם אנשי מקצוע המוסמכים לבצע בדיקות ראייה, לאבחן בעיות ראייה ולהתאים פתרונות כגון משקפיים, עדשות מגע ועזרים אופטיים אחרים. הטבלה שלהלן מציגה את השירותים העיקריים בתחום האופטומטריה ואת ההטבות הניתנות למבוטחי קופות החולים ""מכבי"", ""מאוחדת"" ו""כללית"" במסלולי הביטוח השונים. השירותים המוצגים כוללים:
+HMO: מאוחדת
+Tier: ארד
+Services:
+  - Service Name: בדיקות ראייה
+    Benefits: 40% הנחה על בדיקה שנתית
+  - Service Name: משקפי ראייה
+    Benefits: 25% הנחה עד 600 ₪, החלפה כל 4 שנים
+  - Service Name: עדשות מגע
+    Benefits: 15% הנחה
+  - Service Name: טיפולים לתיקון ראייה
+    Benefits: 10% הנחה על ניתוח לייזר
+  - Service Name: אביזרי ראייה מיוחדים
+    Benefits: 25% הנחה על מכשירי ראייה ירודה
+  - Service Name: טיפול בילדים
+    Benefits: חינם עד גיל 14, 25% הנחה על אימוני ראייה
+Contact Information:
+  - מספרי_טלפון_לשירות_לקוחות:: 3833* או 1-222-3833 שלוחה 5
+  - phone: 1-222-3833
+  - website: https://www.meuhedet.co.il/eye-care"
